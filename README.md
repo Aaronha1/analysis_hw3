@@ -1,1 +1,1 @@
-# analysis_hw3
+# Newton-Raphson Method and Secant Method
